@@ -1,0 +1,56 @@
+header img {
+    display: block;
+    margin: auto;
+    width: 75%;
+    height: 75%;
+}
+header nav ul a:hover{
+    background-color: rgb(2, 2, 2);
+}
+header nav ul a{
+    text-decoration: none;
+    padding: 1em;
+    color: rgb(255, 251, 0);
+    border-radius: 10%;
+    text-align: center;
+    margin-left: 6em;
+}
+header nav {
+    background-color: rgb(124, 17, 17);
+    height: 0.5vw;
+    padding-top: 0.5vw;
+    padding-bottom: 2vw;
+    margin-left: 16em;
+    margin: 0vw;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(109, 83, 83);
+}
+
+footer div a {
+    text-decoration: none;
+    padding: 1em;
+    color: white;
+    border-radius: 10%;
+}
+footer div script{
+    
+    height: 0.5vw;
+    padding-top: 0.5vw;
+    padding-bottom: 1vw;
+    margin: 0vw;
+    text-align: center;
+}
+footer div {
+    float: center;
+    text-decoration: none;
+    border: 1px;
+    color: white;
+}
+
+footer {
+    padding: 3em;
+    text-align: center;
+}
